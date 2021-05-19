@@ -1,0 +1,53 @@
+.SkillsIntro {
+    color: white;
+    width: 80%;
+    padding-top: 40px;
+    padding-left: 30px;
+    font-size: .8rem;
+}
+h1 {
+    margin-top: 50px;
+    font-size: 1.12rem;
+    color: white;
+    margin-left: 30px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+  
+}
+p {
+    color: white;
+    font-size: .8rem;
+}
+
+li img {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+li p {
+    margin-top: 1px;
+}
+.ReactImg {
+    margin-left: 80px;
+}
+.FirebaseImg {
+    margin-left: 90px;
+}
+.NodeImg {
+    margin-left: 54px;
+}
+
+
+.AeImg {
+    margin-left: 70px;
+}
+.UxImg {
+    margin-left: 45px;
+}
+.UiImg {
+    margin-left: 52px;
+}
+.space {
+    padding-bottom: 200px;
+}

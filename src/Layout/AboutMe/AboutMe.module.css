@@ -1,0 +1,25 @@
+.ImgContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.Greenbox {
+    width: 136px;
+    height: 200px;
+    background-color: #00CEB4;
+}
+.Img {
+    position: absolute;
+    margin-top: -15px;
+    margin-left: -15px;
+    
+}
+.h2{
+    margin-top: 60px;
+    color: white;
+    font-size: 1.12rem;
+}
+.AboutMeText {
+    padding-left: 30px;
+    width: 90%;
+}

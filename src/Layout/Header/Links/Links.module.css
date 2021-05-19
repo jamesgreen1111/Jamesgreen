@@ -1,0 +1,28 @@
+.Links ul {
+    display: flex;
+    font-size: 1.1rem;
+    font-weight: 400;
+    height: 30px;
+    text-decoration: none;
+    padding-top: 30px;
+    margin-left: -10px;
+}
+.Links li {
+    margin-right: 40px;
+    list-style: none;
+    
+}
+.Links  a {
+    text-decoration: none;
+    list-style: none;
+    color: rgba(255, 255, 255, 0.459);
+}
+
+.Links a:hover,
+.Links a:active,
+.Links a.active {
+    padding-bottom: 10px;
+    color: white;
+    border-bottom: solid 3px #00CEB4 ;
+    
+}

@@ -1,0 +1,20 @@
+.MainContentTitleTwo {
+    display: flex;
+
+}
+.h1 {
+    color: white;
+    padding-right: 120px;
+    font-size: 1.1rem;
+    margin-top: 40px;
+}
+.p {
+    margin-top: 45px;
+    font-size: .8rem;
+    color: rgba(255, 255, 255, 0.527);
+}
+.Arrow {
+    margin-top: 44px;
+    margin-left: 30px;
+
+}
